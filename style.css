@@ -1,0 +1,25 @@
+header
+
+{font-size: 25px;
+}
+
+
+*{
+background-color: #1E1E1E;
+margin: 5%;
+color: white;
+font-size: 20px;
+}
+
+#outer{
+
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    left: 0px;
+    top: 0px;
+    color: azure;
+    background: #000000;
+
+
+}
